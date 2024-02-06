@@ -1,4 +1,5 @@
 ## Olá! Eu sou o Fernando Calixto 🖐️
+-- tenho 16 anos de idade
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-calixto-692109246/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/programacao_12/?next=%2F)
