@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Fernando Calixto 🖐️
-- tenho 17 anos de idade
-- Cursando o 3 ano do novo ensino medio
+- tenho 18 anos de idade
 - Apaixonado por tecnologia!
 - Esperiente em robotica
   
